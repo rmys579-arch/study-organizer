@@ -1,2 +1,1 @@
-# study-organizer
-proje dosyası
+
